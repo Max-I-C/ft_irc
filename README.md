@@ -52,9 +52,6 @@ INVITE
 Channel mode handling (+i, +t, +k, +o, +l, -i, -t, -k, ...)
 ```
 
-
-## The new topics in this project
-
 ## Installation
 - Run make
 - Execute the program with the password and the port of your choice
